@@ -1,6 +1,6 @@
-# LoginMVC
+# Simple Login Application
 
-### Login process developed by C# MVC 
+### Application is developed in Visual Studio 2019, C#, MVC 5.0
 
 #### Model
 
