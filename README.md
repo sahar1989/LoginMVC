@@ -4,7 +4,7 @@
 
 #### Model
 
-This folder includes user class and entitites class which are links to Database and table
+This folder includes user class and entitites class which are map to Database and table
 
 #### View
 
